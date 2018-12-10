@@ -150,6 +150,7 @@ public class User_Client {
                         break;
                     }
                     System.out.println(test.getUser(username8));
+                    System.out.println("FriendList: " +test.getUser(username8).getFriendList());
                     break;
                 case "HELP":
                     System.out.println("Commmand Lists");
