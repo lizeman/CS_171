@@ -1,0 +1,8 @@
+double product = 1.0
+
+for (int i = 1; i <= n; i *=)
+    product *=i;
+
+O(log2 N + 1)
+
+

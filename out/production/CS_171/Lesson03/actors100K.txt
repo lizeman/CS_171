@@ -1,0 +1,10 @@
+1	Ahmed A El Rahim	A El Rahim, Ahmed
+10000	Richard Abramowitz	Abramowitz, Richard
+1000000	Man Kit	Kit, Man (I)
+1000004	Wong Yan Kit	Kit, Wong Yan
+1000007	Daihachi Kita	Kita, Daihachi
+1000008	Erik Kita	Kita, Erik
+1000009	Greg Kita	Kita, Greg
+100001	Billy Angell	Angell, Billy
+1000011	Jacek Kita	Kita, Jacek
+1000013	Jiro Kita	Kita, Jiro
